@@ -1,5 +1,5 @@
 ! Title: ab ublock list
-! Version: 1.0.0.12
+! Version: 1.0.0.13
 ! Source: https://raw.githubusercontent.com/a1jzbx8gowpqsk/miscellaneous/refs/heads/main/ab_ublock_list.txt
 
 gall.dcinside.com##.gall_exposure
@@ -36,3 +36,7 @@ kr.investing.com##.js-billboard-ad-free-message.type-1.strip.adsFreeSubscription
 naver.com###NM_TOP_BANNER
 freefilesync.org###alt-banner
 shana.pe.kr###shanaModal
+
+@@||da.namu.la^$domain=arca.live
+@@||arca.live/api/*pagead?$xmlhttprequest
+arca.live#@#div.ad
