@@ -1,6 +1,6 @@
-! Title: ab ublock list geopixels
-! Version: 1.0.0.1
-! Source: https://raw.githubusercontent.com/a1jzbx8gowpqsk/miscellaneous/refs/heads/main/ab_ublock_list_geopixels.txt
+! Title: ab ublock list geopixels a1
+! Version: 1.0.0.0
+! Source: https://raw.githubusercontent.com/a1jzbx8gowpqsk/miscellaneous/refs/heads/main/ab_ublock_list_geopixels_a1.txt
 
 ! Unnecessary messages - https://geopixels.net
 geopixels.net###resumePaintingControl
