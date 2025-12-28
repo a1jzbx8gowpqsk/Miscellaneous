@@ -6,8 +6,8 @@
 geopixels.net###resumePaintingControl
 
 ! Black and White - https://geopixels.net
-geopixels.net###\#FFFFFF
-geopixels.net###\#000000
+! geopixels.net###\#FFFFFF
+! geopixels.net###\#000000
 
 ! Defalut colors - https://geopixels.net
 geopixels.net###\#F4F59F
